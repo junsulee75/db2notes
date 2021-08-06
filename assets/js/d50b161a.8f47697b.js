@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdb_2_notes=self.webpackChunkdb_2_notes||[]).push([[452],{4099:function(s){s.exports=JSON.parse('{"allTagsPath":"/db2notes/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/db2notes/blog/tags/hola"}')}}]);
